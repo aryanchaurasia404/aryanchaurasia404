@@ -13,15 +13,15 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/your-username?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge)](https://github.com/your-username?tab=stars)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=stars)
 
 I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a passion for coding and innovation. I'm excited to share my projects and collaborations with you on GitHub!
 
 ## About Me
 
-* I'm a [Your Profession/Student] with [1] years of experience in [Coading].
-* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [COADING ANIMATION CIDEO EDITING].
+* I'm a [Student] with [1] years of experience in [Coading].
+* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [COADING, ANIMATION , VIDEO EDITING].
 * I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub.
 
 
