@@ -36,8 +36,8 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 * [LinkedIn](https://www.linkedin.com/in/aryan-chaurasia-6864a026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app): Connect with me on LinkedIn
 * [Instagram](https://www.instagram.com/aryan_sia_/?hl=en)): Follow me on Instagram
-* [Medium]: (https://medium.com/@aryanchaurasia50010):        
-* [dev community profile]:(https://dev.to/aryanchaurasia)
+* [Medium](https://medium.com/@aryanchaurasia50010): follow me on medium        
+* [dev community profile](https://dev.to/aryanchaurasia): follow me on dev community 
   
 
 ## Let's Collaborate!
