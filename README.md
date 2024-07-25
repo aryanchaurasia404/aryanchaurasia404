@@ -15,7 +15,8 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=stars)
-[![c](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black)](https://visualstudio.microsoft.com/vs/features/cplusplus/)
+[![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black)](https://visualstudio.microsoft.com/vs/features/cplusplus/)
+
 
 I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a passion for coding and innovation. I'm excited to share my projects and collaborations with you on GitHub!
 
