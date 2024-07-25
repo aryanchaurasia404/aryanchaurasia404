@@ -35,6 +35,11 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 </a>
 
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
 ## Skills
 
 * Programming languages: [HTML CSS JAVA C C++ PYTHON]
@@ -43,11 +48,13 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 ## Social Media
 
-* [LinkedIn](https://www.linkedin.com/in/aryan-chaurasia-6864a026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app): Connect with me on LinkedIn
-* [Instagram](https://www.instagram.com/aryan_sia_/?hl=en)): Follow me on Instagram
-* [Medium](https://medium.com/@aryanchaurasia50010): follow me on medium        
-* [dev community profile](https://dev.to/aryanchaurasia): follow me on dev community
-* [![](https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+* ## 🔗 Links
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@aryanchaurasia50010/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chaurasia-6864a026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/aryan_sia_/?hl=en)
+[![Dev Community Profile](https://img.shields.io/badge/Dev-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dev.to/aryanchaurasia)
+
 
 
 
@@ -76,12 +83,23 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
+
+
+
+
+
                                                                                                                         
 ## Let's Collaborate!
 
 If you're interested in collaborating on a project or would like to discuss an idea, feel free to reach out to me. I'm always open to new opportunities and connections.
 
 Thank you for visiting my GitHub account!
+
+
+
+
+
+
 
 
 
