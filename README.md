@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Small projects Hackthond
 - 📫 How to reach me https://linktr.ee/aryan_sia
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: .I am not funny
+- ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
 
 # Welcome to My GitHub Account!
 ================================
