@@ -18,6 +18,9 @@
 
 I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a passion for coding and innovation. I'm excited to share my projects and collaborations with you on GitHub!
 
+
+
+
 ## About Me
 
 * I'm a [Student] with [1] years of experience in [Coading].
@@ -44,14 +47,40 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 * [dev community profile](https://dev.to/aryanchaurasia): follow me on dev community
 * [![](https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+
+
+
+
+
+![aryanchaurasia404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchaurasia404&theme=tokyonight&hide_border=false)
+
+
+
+
+
+
+![aryanchaurasia404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
+
+
   
-* [analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404):
+* [Analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404):
+
+  
 
 * ![aryanchaurasia404's Stats](https://github-readme-stats.vercel.app/api?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+
+
+
                                                                                                                         
 ## Let's Collaborate!
 
 If you're interested in collaborating on a project or would like to discuss an idea, feel free to reach out to me. I'm always open to new opportunities and connections.
 
 Thank you for visiting my GitHub account!
+
+
+
 
