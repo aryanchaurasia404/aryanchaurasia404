@@ -24,7 +24,10 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 * I'm proficient in [Programming Languages/Technologies] and have a strong interest in [COADING, ANIMATION , VIDEO EDITING].
 * I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub.
   
-
+  
+*<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</a>
 
 
 ## Skills
@@ -39,10 +42,9 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 * [Instagram](https://www.instagram.com/aryan_sia_/?hl=en)): Follow me on Instagram
 * [Medium](https://medium.com/@aryanchaurasia50010): follow me on medium        
 * [dev community profile](https://dev.to/aryanchaurasia): follow me on dev community
+* [![](https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-*  [<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&pretty=false" />
-</a>
+  
 * [analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404): 
 
 ## Let's Collaborate!
