@@ -45,8 +45,10 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 * [![](https://visitcount.itsvg.in/api?id=aryanchaurasia404&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   
-* [analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404): 
+* [analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404):
 
+* ![aryanchaurasia404's Stats](https://github-readme-stats.vercel.app/api?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+                                                                                                                        
 ## Let's Collaborate!
 
 If you're interested in collaborating on a project or would like to discuss an idea, feel free to reach out to me. I'm always open to new opportunities and connections.
