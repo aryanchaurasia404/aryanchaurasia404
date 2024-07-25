@@ -7,6 +7,21 @@
 - ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
 
 # Welcome to My GitHub Account!
+
+
+⚡️ Features
+
+✅  Search in Editor
+
+✅  Download README.md file
+
+✅  Upload README.md file
+
+✅  Docker version
+
+✅  Friendly UI
+
+❌  Light Mode
 ================================
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -54,6 +69,15 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chaurasia-6864a026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/aryan_sia_/?hl=en)
 [![Dev Community Profile](https://img.shields.io/badge/Dev-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dev.to/aryanchaurasia)
+
+
+
+#Contributing
+We appreciate all contributions and thank all the contributors!
+
+[![Contributing](https://contrib.rocks/image?repo=microsoft/vscode)](https://github.com/microsoft/vscode/graphs/contributors)
+
+
 
 
 
