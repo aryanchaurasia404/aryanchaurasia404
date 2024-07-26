@@ -8,7 +8,7 @@
 
 
 
-![Hello](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif)
+
 
 # Welcome to My GitHub Account!
 
@@ -217,7 +217,7 @@ If you're interested in collaborating on a project or would like to discuss an i
 Thank you for visiting my GitHub account!
 
 
-![Thank You](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 
 
 
