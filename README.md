@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @aryanchaurasia404
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Animation
@@ -7,7 +8,6 @@
 - ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
 
 # Welcome to My GitHub Account!
-
 
 
 
@@ -257,8 +257,10 @@ If you're interested in collaborating on a project or would like to discuss an i
 Thank you for visiting my GitHub account!
 
 
+![Thank You](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 
 
 
-![Thank You](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif)
+
+
