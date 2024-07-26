@@ -14,7 +14,7 @@
 
 
 
-❌  Light Mode
+
 ================================
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -99,7 +99,7 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
-[![Achievements](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=3&theme=onedark)](https://github.com/aryanchaurasia404)
+
 
 
 
@@ -183,10 +183,7 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
-#Contributing
-We appreciate all contributions and thank all the contributors!
 
-[![Contributing](https://contrib.rocks/image?repo=microsoft/vscode)](https://github.com/microsoft/vscode/graphs/contributors)
 
 
 
