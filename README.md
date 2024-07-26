@@ -15,6 +15,24 @@
 
 
 
+
+
+
+I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a passion for coding and innovation. I'm excited to share my projects and collaborations with you on GitHub!
+
+
+
+
+## About Me
+
+* I'm a [Student] with [1] years of experience in [Coading].
+* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [CODING, ANIMATION , VIDEO EDITING].
+* I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="[Material-UI](https://www.blackbox.ai/?q=Material-UI)" /> : <img src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />: <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
@@ -55,22 +73,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=stars)
 [![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black)](https://visualstudio.microsoft.com/vs/features/cplusplus/)
-
-
-I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a passion for coding and innovation. I'm excited to share my projects and collaborations with you on GitHub!
-
-
-
-
-## About Me
-
-* I'm a [Student] with [1] years of experience in [Coading].
-* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [CODING, ANIMATION , VIDEO EDITING].
-* I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub
-
-
-
-### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40">
