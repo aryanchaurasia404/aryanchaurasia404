@@ -190,6 +190,40 @@ We appreciate all contributions and thank all the contributors!
 
 
 
+## Growth Chart
+
+### GitHub Stats
+
+| Metric | Value | Growth |
+| --- | --- | --- |
+| **Stars** |![Stars](https://img.shields.io/github/stars/aryanchaurasia404/yourrepo?style=flat-square) |![Stars Growth](https://img.shields.io/github/stars/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+| **Forks** |![Forks](https://img.shields.io/github/forks/aryanchaurasia404/yourrepo?style=flat-square) |![Forks Growth](https://img.shields.io/github/forks/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+| **Watchers** |![Watchers](https://img.shields.io/github/watchers/aryanchaurasia404/yourrepo?style=flat-square) |![Watchers Growth](https://img.shields.io/github/watchers/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+| **Commits** |![Commits](https://img.shields.io/github/commit-activity/aryanchaurasia404/yourrepo?style=flat-square) |![Commits Growth](https://img.shields.io/github/commit-activity/y/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+| **Issues** |![Issues](https://img.shields.io/github/issues/aryanchaurasia404/yourrepo?style=flat-square) |![Issues Growth](https://img.shields.io/github/issues/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+| **Pull Requests** |![Pull Requests](https://img.shields.io/github/issues-pr/aryanchaurasia404/yourrepo?style=flat-square) |![Pull Requests Growth](https://img.shields.io/github/issues-pr/aryanchaurasia404/yourrepo?style=flat-square&label=Growth) |
+
+This growth chart displays the following metrics:
+
+1. **Stars**: The number of stars your repository has received.
+2. **Forks**: The number of forks your repository has received.
+3. **Watchers**: The number of watchers your repository has.
+4. **Commits**: The number of commits made to your repository in the past year.
+5. **Issues**: The number of open issues in your repository.
+6. **Pull Requests**: The number of open pull requests in your repository.
+
+The growth chart also displays the growth rate for each metric, which is calculated as the percentage change over the past year.
+
+You can customize this chart to fit your needs and style.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -222,12 +256,6 @@ We appreciate all contributions and thank all the contributors!
 If you're interested in collaborating on a project or would like to discuss an idea, feel free to reach out to me. I'm always open to new opportunities and connections.
 
 Thank you for visiting my GitHub account!
-
-
-
-
-
-
 
 
 
