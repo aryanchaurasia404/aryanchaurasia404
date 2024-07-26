@@ -9,17 +9,7 @@
 # Welcome to My GitHub Account!
 
 
-⚡️ Features
 
-✅  Search in Editor
-
-✅  Download README.md file
-
-✅  Upload README.md file
-
-✅  Docker version
-
-✅  Friendly UI
 
 ❌  Light Mode
 ================================
