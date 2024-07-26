@@ -214,7 +214,6 @@ This growth chart displays the following metrics:
 
 The growth chart also displays the growth rate for each metric, which is calculated as the percentage change over the past year.
 
-You can customize this chart to fit your needs and style.
 
 
 
