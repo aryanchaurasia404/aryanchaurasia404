@@ -1,11 +1,14 @@
 
-- 👋 Hi, I’m @aryanchaurasia404
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Animation
 - 💞️ I’m looking to collaborate on Small projects Hackthon
 - 📫 How to reach me https://linktr.ee/aryan_sia
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
+
+
+
+![Hello](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif)
 
 # Welcome to My GitHub Account!
 
