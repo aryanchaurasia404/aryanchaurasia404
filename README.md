@@ -36,7 +36,6 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40">
@@ -77,13 +76,97 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
+
+
+
+## GitHub Trophies
+
+### Profile Trophies
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+
+
+
+
+
+[![Achievements](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=3&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+### Commits
+
+
+
+
+
+
+
+[![Commits](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=4&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+
+### Pull Requests
+
+
+
+
+
+
+
+
+
+[![Pull Requests](https://github-profile-trophy.vercel.app/?username=yourgithubusernamearyanchaurasia404&row=2&column=5&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+
+### Issues
+
+
+
+
+
+[![Issues](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=6&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&theme=onedark)](https://github.com/aryanchaurasia404)
+
+
+
+
+
 ## Skills
+
+
+
 
 * Programming languages: [HTML CSS JAVA C C++ PYTHON]
 * Technologies: [AI ]
 * Tools: [USE OF AI,SOME SHORTCUT KEYS]
 
+
+
+
+
 ## Social Media
+
+
+
+
 
 
 * ## 🔗 Links
@@ -91,6 +174,9 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chaurasia-6864a026b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/aryan_sia_/?hl=en)
 [![Dev Community Profile](https://img.shields.io/badge/Dev-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dev.to/aryanchaurasia)
+
+
+
 
 
 
@@ -115,6 +201,10 @@ We appreciate all contributions and thank all the contributors!
 * [Analytics of my profile](https://visitcount.itsvg.in/analytics/aryanchaurasia404):
 
   
+
+
+
+
 
 * ![aryanchaurasia404's Stats](https://github-readme-stats.vercel.app/api?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
