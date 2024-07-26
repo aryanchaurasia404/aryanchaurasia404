@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryanchaurasia404
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Animation
-- 💞️ I’m looking to collaborate on Small projects Hackthond
+- 💞️ I’m looking to collaborate on Small projects Hackthon
 - 📫 How to reach me https://linktr.ee/aryan_sia
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
@@ -31,7 +31,7 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 ## About Me
 
 * I'm a [Student] with [1] years of experience in [Coading].
-* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [COADING, ANIMATION , VIDEO EDITING].
+* I'm proficient in [Programming Languages/Technologies] and have a strong interest in [CODING, ANIMATION , VIDEO EDITING].
 * I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub
 
 
@@ -154,7 +154,7 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
-* Programming languages: [HTML CSS JAVA C C++ PYTHON]
+* Programming languages: [HTML , CSS , JAVA  , C , C++ , PYTHON]
 * Technologies: [AI ]
 * Tools: [USE OF AI,SOME SHORTCUT KEYS]
 
