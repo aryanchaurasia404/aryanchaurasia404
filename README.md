@@ -261,47 +261,4 @@ Thank you for visiting my GitHub account!
 
 
 
-
-
-# Thank You
-
-<div class="thank-you">
-  <span class="animated-text">T</span>
-  <span class="animated-text">H</span>
-  <span class="animated-text">A</span>
-  <span class="animated-text">N</span>
-  <span class="animated-text">K</span>
-  <span class="animated-text"> </span>
-  <span class="animated-text">Y</span>
-  <span class="animated-text">O</span>
-  <span class="animated-text">U</span>
-</div>
-
-<style>
-  .thank-you {
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-  }
-
-  .animated-text {
-    display: inline-block;
-    animation: bounce 1s infinite;
-  }
-
-  @keyframes bounce {
-    0% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
-</style>
-
-
-
-
+![Thank You](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif)
