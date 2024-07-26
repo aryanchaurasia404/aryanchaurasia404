@@ -100,46 +100,6 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
-
-
-
-
-### Commits
-
-
-
-
-
-
-
-[![Commits](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=4&theme=onedark)](https://github.com/aryanchaurasia404)
-
-
-
-
-
-### Pull Requests
-
-
-
-
-
-
-
-
-
-[![Pull Requests](https://github-profile-trophy.vercel.app/?username=yourgithubusernamearyanchaurasia404&row=2&column=5&theme=onedark)](https://github.com/aryanchaurasia404)
-
-
-
-
-
-### Issues
-
-
-
-
-
 [![Issues](https://github-profile-trophy.vercel.app/?username=aryanchaurasia404&row=2&column=6&theme=onedark)](https://github.com/aryanchaurasia404)
 
 
