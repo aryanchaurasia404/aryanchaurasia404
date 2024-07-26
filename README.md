@@ -1,4 +1,3 @@
-
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Animation
 - 💞️ I’m looking to collaborate on Small projects Hackthon
@@ -6,6 +5,14 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: .C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.
 
+
+
+
+
+
+
+
+ 
 
 
 
@@ -41,42 +48,37 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
  <img src="https://img.shields.io/badge/XML-00698F?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-
-
-#  Some Browsers 
-
- <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
-<img src="https://img.shields.io/badge/Mozilla%20Firefox-FF7139?style=for-the-badge&logo=mozilla-firefox&logoColor=white" alt="Mozilla Firefox" />
- <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" />
- <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Safari" />
- <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" alt="Opera" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge)](https://github.com/aryanchaurasia404?tab=stars)
 [![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black)](https://visualstudio.microsoft.com/vs/features/cplusplus/)
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40">
+
+
+
+#  Some Browsers 
+ <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" /><img src="https://img.shields.io/badge/Mozilla%20Firefox-FF7139?style=for-the-badge&logo=mozilla-firefox&logoColor=white" alt="Mozilla Firefox" /><img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Microsoft Edge" /> <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Safari" /><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white" alt="Opera" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/aryanchaurasia404?style=social)](https://github.com/aryanchaurasia404)
@@ -91,8 +93,17 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 ![aryanchaurasia404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+#Some Projects:
 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=tekris-game&theme=radical" width="400" />
+</div>
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=to-do-list-&theme=radical" width="400" />
+</div>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=github-profile-viewer&theme=radical" width="400" />
+</div>
+
+ 
 
 
 
