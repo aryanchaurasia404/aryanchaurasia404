@@ -36,6 +36,17 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40">
+
+
+[![GitHub Followers](https://img.shields.io/github/followers/aryanchaurasia404?style=social)](https://github.com/aryanchaurasia404)
+
+
 ![aryanchaurasia404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchaurasia404&theme=tokyonight&hide_border=false)
 
 
