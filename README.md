@@ -34,6 +34,8 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 * I'm proficient in [Programming Languages/Technologies] and have a strong interest in [COADING, ANIMATION , VIDEO EDITING].
 * I'm always looking to learn and improve, and I'm excited to collaborate with others on GitHub
 
+
+
 ![aryanchaurasia404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchaurasia404&theme=tokyonight&hide_border=false)
 
 
@@ -42,6 +44,15 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 
 ![aryanchaurasia404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchaurasia404&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
+
+
+
+
+
+
+[![aryanchaurasia404's Stack Overflow | Stats](https://stats.quira.sh/aryanchaurasia404/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aryanchaurasia404)
 .
   
   
