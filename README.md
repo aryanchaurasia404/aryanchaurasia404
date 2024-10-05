@@ -1,5 +1,5 @@
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Animation
+- 🌱 I’m currently Workin on A Method Of  disease Detection Using CNN
 - 💞️ I’m looking to collaborate on Small projects Hackthon
 - 📫 How to reach me https://linktr.ee/aryan_sia
 - 😄 Pronouns: ...He/Him
