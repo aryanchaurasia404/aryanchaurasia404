@@ -95,7 +95,7 @@ I'm [Aryan Chaurasia](https://github.com/aryanchaurasia404), a [Student] with a 
 
 #Some Projects:
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=tekris-game&theme=radical" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=Jarvis-talking-bot&theme=radical" width="400" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchaurasia404&repo=to-do-list-&theme=radical" width="400" />
